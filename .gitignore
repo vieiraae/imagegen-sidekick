@@ -1,0 +1,11 @@
+.env
+.env.*
+!skills/gpt-imagegen/.env
+!skills/foundry-tts/.env
+.venv/
+__pycache__/
+*.pyc
+outputs/
+node_modules/
+!skills/walkthrough-video/.env
+.impeccable/

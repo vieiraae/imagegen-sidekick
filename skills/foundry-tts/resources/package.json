@@ -1,0 +1,16 @@
+{
+  "name": "foundry-tts",
+  "private": true,
+  "type": "module",
+  "description": "Create SSML, synthesize speech with the Foundry Speech SDK and write a word timeline.",
+  "engines": { "node": ">=24.2" },
+  "scripts": {
+    "tts": "node tts.ts",
+    "test": "node --test tts.test.ts"
+  },
+  "dependencies": {
+    "@azure/identity": "^4.14.0",
+    "fast-xml-parser": "^5.3.0",
+    "microsoft-cognitiveservices-speech-sdk": "^1.52.0"
+  }
+}

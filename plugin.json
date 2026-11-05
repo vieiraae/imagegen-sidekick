@@ -1,0 +1,7 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "imagegen-sidekick",
+  "version": "0.1.0",
+  "description": "Skills for generating and editing images (including Blender-ready assets), synthesizing speech with SSML and word timelines, and recording narrated web UI walkthrough videos.",
+  "keywords": ["image-generation", "image-editing", "blender", "azure-openai", "text-to-speech", "ssml", "foundry", "walkthrough", "video", "playwright"]
+}

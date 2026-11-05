@@ -1,0 +1,4 @@
+openai>=2.0.0,<3
+azure-identity>=1.17.0,<2
+python-dotenv>=1.0.0,<2
+Pillow>=11.0.0,<13
